@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034326506847",
+    "project_id": "savad-416a5",
+    "storage_bucket": "savad-416a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034326506847:android:5be600e72619d7067e0aea",
+        "android_client_info": {
+          "package_name": "com.zxc.savad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034326506847-piq7go0amkjq0fqg3f4grcd1n5najf34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7MPlvXz1svu-aVHogjxGKP3c8LN8Y00Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034326506847-piq7go0amkjq0fqg3f4grcd1n5najf34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

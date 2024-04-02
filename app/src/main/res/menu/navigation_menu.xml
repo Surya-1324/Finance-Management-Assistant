@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item
+        android:id="@+id/nav_account"
+        android:title="@string/myaccount" />
+
+
+
+    <item
+        android:id="@+id/nav_Transaction"
+        android:title="Transactions" >
+
+    </item>
+
+
+    <item
+        android:id="@+id/nav_payments"
+        android:title="Payments" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Administration" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Logout" />
+
+</menu>

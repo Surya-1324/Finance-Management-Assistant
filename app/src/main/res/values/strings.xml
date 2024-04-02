@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Personal Assistant</string>
+    <string name="loading">Loading…</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="myaccount">My Account</string>
+
+</resources>
